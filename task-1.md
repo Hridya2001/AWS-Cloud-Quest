@@ -21,7 +21,7 @@
 ---
 
 ##  Reference Diagram
-![Task 1 Diagram](./images/task-1-diagram.png)
+![Task 1 Diagram](./Images/Static-web-hosting.png)
 
 ---
 
