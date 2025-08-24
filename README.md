@@ -25,4 +25,4 @@ By completing Cloud Quest tasks, I will gain:
 
 2. **Task 2: Launching EC2 Instances in Multiple AZs** *(in progress)*
    - Creating two EC2 instances across different Availability Zones.
-   - 📄 [Read more](./task-2.md)
+   -  [Read more](./task-2.md)
