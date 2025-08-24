@@ -20,7 +20,7 @@
 
 ---
 
-##  Reference Diagram
+##  Task Completion Snapshot
 ![Task 1 Diagram](./Images/Static-web-hosting.png)
 
 ---
