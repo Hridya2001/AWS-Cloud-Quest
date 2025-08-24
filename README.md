@@ -5,6 +5,10 @@ This repository documents my hands-on journey through **AWS Cloud Quest: Cloud P
 an interactive game-based learning challenge from AWS.  
 The game provides practical, scenario-based labs to strengthen cloud computing skills.
 
+I enrolled in this program through my **[AWS Skill Builder account](https://skillbuilder.aws/)**,  
+and the Cloud Quest course is available here:  
+ [AWS Cloud Quest: Cloud Practitioner](https://explore.skillbuilder.aws/learn/course/external/view/elearning/11457/aws-cloud-quest-cloud-practitioner)
+
 ##  What is AWS Cloud Quest?
 - A role-based learning game where players help a digital city by solving cloud challenges.
 - Each challenge represents a real AWS task, e.g., deploying S3 websites, configuring EC2, etc.
