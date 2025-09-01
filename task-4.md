@@ -37,4 +37,5 @@
 
 ## Rewards in Cloud Quest
 - **Unlocked Marketplace**
+- **Unlocked Vehicle: Scooter**
 - **Earned Extra Coins**
