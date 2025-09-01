@@ -25,7 +25,7 @@
 ---
 
 ## Task Completion Snapshot
-![Task 3 Diagram](./Images/EC2-scaling.png)
+![Task 3 Diagram](./Images/ec2-scaling.png)
 
 ---
 
