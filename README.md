@@ -30,3 +30,14 @@ By completing Cloud Quest tasks, I will gain:
    - Deployed two EC2 instances across different Availability Zones.
    - [Read more](./task-2.md)
 
+3. **Task 3: Computing Solutions (EC2 Scaling)**
+   - Scaled up an EC2 instance from **t3.micro → m4.large** to improve performance.
+   - Practiced: starting/stopping instances, modifying types, and verifying metadata.
+   - [Read more](./task-3.md)
+
+4. **Task 4: Cloud Economics (Pricing Estimates)**
+   - Created a cost estimate for EC2 usage.
+   - Modified estimate by changing EC2 type to **t2.micro**.
+   - Generated a new AWS pricing estimate link.
+   - [Read more](./task-4.md)
+
