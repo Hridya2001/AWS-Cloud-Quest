@@ -1,7 +1,7 @@
 # Task 4: Cloud Economics (Pricing Estimates)
 
 ## Assignment
-**Solution Request:** Create a cost estimate for Amazon EC2 instances based on peak demand.  
+**Solution Request:** Create a cost estimate for Amazon EC2 instances based on peak demand.
 
 **Practice Lab Goals:**
 - Create logical pricing groups in AWS Pricing Calculator.
