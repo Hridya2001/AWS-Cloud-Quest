@@ -1,7 +1,7 @@
 #  AWS Cloud Quest – Cloud Practitioner Journey
 
 ##  Overview
-This repository documents my hands-on journey through **AWS Cloud Quest: Cloud Practitioner**,  
+This repository documents my hands-on journey through **AWS Cloud Quest: Cloud Practitioner**,
 an interactive game-based learning challenge from AWS.  
 The game provides practical, scenario-based labs to strengthen cloud computing skills.
 
